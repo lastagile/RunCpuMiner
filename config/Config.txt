@@ -1,7 +1,7 @@
 1
 3000
 600000
-20
+30
 // Modefile lines above
 1 line : RunInBack
 2 line : CheckPeriod (ms)
