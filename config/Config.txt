@@ -1,0 +1,9 @@
+1
+3000
+600000
+20
+// Modefile lines above
+1 line : RunInBack
+2 line : CheckPeriod (ms)
+3 line : Waitting time before run.exe execute ToRun.bat after last user input(ms)
+4 line : If cpu0 useage lower than it begin execute ToRun.bat
