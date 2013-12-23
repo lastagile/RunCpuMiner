@@ -1,6 +1,6 @@
-1
+0
 3000
-600000
+6000
 30
 // Modefile lines above
 1 line : RunInBack
