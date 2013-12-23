@@ -2,7 +2,7 @@
 
 所以只有当没有用户使用计算机时，并且CPU活动低则可启动指定后台挖矿任务。
 
-Github地址：https://github.com/lastagile/RunCPUMine
+Github地址：https://github.com/lastagile/RunCPUMiner
 
 说明：
 =================
