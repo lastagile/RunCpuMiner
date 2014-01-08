@@ -63,5 +63,5 @@ PTS：
 	
 [PYAYBuu8NQCq4P15Vg2gPjBUwebz1NCY41](http://btsblock.com/address/PYAYBuu8NQCq4P15Vg2gPjBUwebz1NCY41)
 	
-QQ群： 309947822
+QQ群(提供最新QT图形化版本)： 309947822
 	
