@@ -62,6 +62,9 @@ Run.exe 为主程序，X秒钟检查一次有没有用户活动。
 PTS：
 	
 [PYAYBuu8NQCq4P15Vg2gPjBUwebz1NCY41](http://btsblock.com/address/PYAYBuu8NQCq4P15Vg2gPjBUwebz1NCY41)
-	
+
+QT 版本百度网盘下载：
+[RunCpuMiner](http://pan.baidu.com/s/1kTsOmcn)
+
 QQ群(提供最新QT图形化版本)： 309947822
 	
