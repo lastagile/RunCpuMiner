@@ -64,7 +64,7 @@ PTS：
 [PYAYBuu8NQCq4P15Vg2gPjBUwebz1NCY41](http://btsblock.com/address/PYAYBuu8NQCq4P15Vg2gPjBUwebz1NCY41)
 
 QT 版本百度网盘下载：
-[RunCpuMiner](http://pan.baidu.com/s/1kTsOmcn)
+[RunCpuMiner](http://pan.baidu.com/s/1jGhuX0M)
 
 QQ群(提供最新QT图形化版本)： 309947822
 	
